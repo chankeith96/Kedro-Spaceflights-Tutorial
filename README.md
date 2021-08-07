@@ -8,6 +8,8 @@ Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get st
 
 ## Visualize Spaceflights Pipeline
 ![Spaceflights Pipeline])(https://github.com/chankeith96/Kedro-Spaceflights-Tutorial/blob/feature/project-template/kedro-pipeline.png?raw=true)
+![Spaceflights Pipeline2])(https://github.com/chankeith96/Kedro-Spaceflights-Tutorial/blob/feature/project-template/kedro-pipeline.png)
+![Spaceflights Pipeline3])(kedro-pipeline.png)
 
 ## Rules and guidelines
 
