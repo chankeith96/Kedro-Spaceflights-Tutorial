@@ -6,6 +6,9 @@ This is your new Kedro project, which was generated using `Kedro 0.17.4`.
 
 Take a look at the [Kedro documentation](https://kedro.readthedocs.io) to get started.
 
+## Visualize Spaceflights Pipeline
+![Spaceflights Pipeline])(https://github.com/chankeith96/Kedro-Spaceflights-Tutorial/tree/feature/project-template/kedro-pipeline.png?raw=true)
+
 ## Rules and guidelines
 
 In order to get the best out of the template:
